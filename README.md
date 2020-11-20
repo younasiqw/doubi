@@ -315,7 +315,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/status.sh && chmod +x status.sh && bash status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/younasiqw/doubi/master/status.sh && chmod +x status.sh && bash status.sh
 ```
 
 ---
