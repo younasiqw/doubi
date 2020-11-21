@@ -384,14 +384,14 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/younasiqw/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
  # 安装插件：
  bash caddy_install.sh xxx,xxx
   # 例如同时安装 http.filemanager 和 http.webdav插件：
   bash caddy_install.sh http.filemanager,http.webdav
   # 插件和Caddy是集成在一起的(单个二进制文件)，多个插件必须同时安装。
 # 卸载命令：
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && caddy_install.sh uninstall
+wget -N --no-check-certificate https://raw.githubusercontent.com/younasiqw/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && caddy_install.sh uninstall
 ```
 
 ---
